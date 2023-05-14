@@ -28,6 +28,19 @@
           "chat": "https://t.me/cashtoken_devs"
         }
       }
+    },
+    "180f0db4465c2af5ef9363f46bacde732fa6ffb3bfe65844452078085b2e7c93": {
+      "2023-05-15T12:00:00.000Z": {
+        "name": "NFTs from Emerald DAO v2.1.0 May 2023 Upgrade Celebration Edition",
+        "description": "Series of 2000 numbered NFTs minted by Emerald DAO v2.1.0. The user pays 0.1 BCH to mint a NFT which he can then freely transfer or trade.\nStarting May 2024, whomever holds the NFT will have the option of burning the NFT to get 0.101 BCH from the DAO.\nThe additional 0.001 BCH comes from DAO's rewards pool which was seeded by the creator.\nThis instance of Emerald DAO v2.1.0 was created on Bitcoin Cash May 2023 upgrade day to demonstrate new capabilities enabled by the CashTokens upgrade, and to celebrate the network upgrade event!",
+        "uris": {
+          "icon": "https://ipfs.pat.mn/u/djdg8e",
+          "web": "https://old.reddit.com/r/cashtokens/comments/13g9huj/announcing_emerald_dao_v210_nft_series/",
+          "dapp": "https://emerald-dao.vercel.app",
+          "contract": "https://gitlab.com/0353F40E/emerald-dao/-/tree/main/contracts/v2-1-0",
+          "instance": "https://gitlab.com/0353F40E/emerald-dao/-/tree/main/instances/v2-1-0"
+        }
+      }
     }
   },
   "license": "CC0-1.0"
