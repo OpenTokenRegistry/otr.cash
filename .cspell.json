@@ -1,0 +1,33 @@
+{
+  "version": "0.2",
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/master/cspell.schema.json",
+  "language": "en",
+  "words": [
+    "authchains",
+    "BCMR",
+    "rebranded",
+    "rebranding",
+    "redenominated",
+    "redenomination",
+    "sublicensable",
+    "TXLOCKTIME"
+  ],
+  "flagWords": [],
+  "ignorePaths": [],
+  "patterns": [
+    {
+      "name": "cash-address-format",
+      "pattern": "/:[qpzry9x8gf2tvdw0s3jn54khce6mua7l]+/g"
+    },
+    {
+      "name": "likely-ticker-symbol",
+      "pattern": "/[\"\\w]+[A-Z]+[\"\\w]+/g"
+    }
+  ],
+  "ignoreRegExpList": [
+    "Base64",
+    "HexValues",
+    "cash-address-format",
+    "likely-ticker-symbol"
+  ]
+}

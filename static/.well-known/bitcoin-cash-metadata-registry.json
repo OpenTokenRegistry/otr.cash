@@ -1,0 +1,34 @@
+{
+  "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "latestRevision": "2023-05-13T00:00:00.000Z",
+  "registryIdentity": {
+    "name": "Open Token Registry",
+    "description": "A community-reviewed registry of tokens on Bitcoin Cash. Publishes names, symbols, icons, and other metadata about CashTokens via a Bitcoin Cash Metadata Registry (BCMR).",
+    "uris": {
+      "icon": "https://otr.cash/img/open-token-registry-icon.png",
+      "web": "https://otr.cash/",
+      "registry": "https://otr.cash/.well-known/bitcoin-cash-metadata-registry.json"
+    }
+  },
+  "identities": {
+    "07a70ec6e0a325991e829daea5de1be1bb71e1ef4a04931cdddf567d8f60f676": {
+      "2023-05-12T20:18:04.000Z": {
+        "name": "OTR Chipnet Tokens",
+        "description": "OpenTokenRegistry's example fungible token issued on Chipnet, a network used for Bitcoin Cash development.\n\nIn user interfaces with limited space, descriptions may be hidden beyond 140 characters or the first newline character; this example allows for testing of hiding and revealing extended descriptions.",
+        "token": {
+          "category": "0afd5f9ad130d043f627fad3b422ab17cfb5ff0fc69e4782eea7bd0853948428",
+          "decimals": 6,
+          "symbol": "OTRC"
+        },
+        "splitId": "00000000040ba9641ba98a37b2e5ceead38e4e2930ac8f145c8094f94c708727",
+        "uris": {
+          "icon": "https://example.com/xampl-icon.svg",
+          "web": "https://otr.cash/otrc",
+          "chat": "https://t.me/cashtoken_devs"
+        }
+      }
+    }
+  },
+  "license": "CC0-1.0"
+}
