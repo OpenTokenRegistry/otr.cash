@@ -23,8 +23,8 @@
         },
         "splitId": "00000000040ba9641ba98a37b2e5ceead38e4e2930ac8f145c8094f94c708727",
         "uris": {
-          "icon": "https://example.com/xampl-icon.svg",
-          "web": "https://otr.cash/otrc",
+          "icon": "ipfs://bafkreig32k6kowcldesjbytktvsh47wnr72qp67ig3aldcjkkkgkx4jmnq",
+          "web": "https://otr.cash/docs/test",
           "chat": "https://t.me/cashtoken_devs"
         }
       }

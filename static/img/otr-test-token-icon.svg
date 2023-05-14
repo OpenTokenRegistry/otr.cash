@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 400 400">
+  <circle cx="30" cy="196.5" r="146.8" style="fill:url(#a)" transform="matrix(1.363 0 0 1.363 159 -68)"/>
+  <use xlink:href="#b" width="752" height="752" transform="matrix(.835 .366 -.316 .721 463 125)"/>
+  <path d="M-237 353V253a53 53 0 0 1 107 0v50c-12 4-23 6-34 7-13 2-25 4-35 10-15 9-30 25-38 33Z" style="fill:#fff" transform="matrix(-.769 -.626 .603 -.786 -136 339)"/>
+  <path d="M-130 304v96h-107v-45c8-9 23-25 38-34 11-7 22-8 35-10 11-1 22-3 34-7Zm-10 13-23 4c-11 2-22 3-31 8-12 8-25 21-33 29v32h87v-73Z" style="fill:#fff" transform="matrix(-.769 -.626 .603 -.786 -129 330)"/>
+  <path d="M-203 213c0-7-3-13-7-13h-48c-4 0-8 6-8 13s4 13 8 13h48c4 0 7-6 7-13Z" style="fill:#fff" transform="matrix(1.742 1.418 -.741 .966 826 251)"/>
+  <defs>
+    <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="translate(-117 196) scale(293.547)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" style="stop-color:#0257a1;stop-opacity:1"/>
+      <stop offset=".5" style="stop-color:#1888e8;stop-opacity:1"/>
+      <stop offset="1" style="stop-color:#1e96fc;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+</svg>
