@@ -8,7 +8,7 @@ Before you begin, read the [Bitcoin Cash Metadata Registry (BCMR) Specification]
 
 ### Add an Embedded Registry
 
-Start by creating an [Embedded Registry](https://cashtokens.org/docs/bcmr/chip/#embedded-registries) in your application. You can simply pull [the BMCR](/.well-known/bitcoin-cash-metadata-registry.json) (hosted at the [standard URI](https://cashtokens.org/docs/bcmr/chip/#well-known-uri) on `otr.cash`) from OpenTokenRegistry (OTR) into your codebase on a regular interval, or you may choose to copy OTR's data into a larger registry that you independently maintain.
+Start by creating an [Embedded Registry](https://cashtokens.org/docs/bcmr/chip/#embedded-registries) in your application. You can simply pull [the BMCR](https://otr.cash/.well-known/bitcoin-cash-metadata-registry.json) (hosted at the [standard URI](https://cashtokens.org/docs/bcmr/chip/#well-known-uri) on `otr.cash`) from OpenTokenRegistry (OTR) into your codebase on a regular interval, or you may choose to copy OTR's data into a larger registry that you independently maintain.
 
 ### Use the Embedded Registry
 
