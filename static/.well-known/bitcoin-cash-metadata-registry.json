@@ -38,12 +38,10 @@
           "symbol": "EMRDAOMAY23"
         },
         "uris": {
-          "icon": "https://ipfs.pat.mn/ipfs/QmcNL1KcVmiDtwJe8WokrnzYeoHirsz1sNxNojncsxyb2p",
-          "web": "https://old.reddit.com/r/cashtokens/comments/13g9huj/announcing_emerald_dao_v210_nft_series/",
-          "dapp": "https://emerald-dao.vercel.app",
-          "contract": "https://gitlab.com/0353F40E/emerald-dao/-/tree/main/contracts/v2-1-0",
-          "instance": "https://gitlab.com/0353F40E/emerald-dao/-/tree/main/instances/v2-1-0",
-          "genesis": "00003c40fa202816c357350eaa2e7ec2b47766209604941789ecf814f98ba4a6"
+          "icon": "ipfs://QmcNL1KcVmiDtwJe8WokrnzYeoHirsz1sNxNojncsxyb2p",
+          "web": "https://0353f40e.gitlab.io/emerald-dao",
+          "chat": "https://t.me/emeralddao",
+          "app": "https://emerald-dao.vercel.app"
         }
       }
     }
