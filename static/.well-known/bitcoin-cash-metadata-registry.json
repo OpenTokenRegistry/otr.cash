@@ -31,11 +31,11 @@
     },
     "180f0db4465c2af5ef9363f46bacde732fa6ffb3bfe65844452078085b2e7c93": {
       "2023-05-15T12:00:00.000Z": {
-        "name": "Emerald DAO v2.1.0 keycard NFT, Bitcoin Cash May 2023 upgrade day celebration instance",
-        "description": "Series of 2000 numbered NFTs minted by an instance of Emerald DAO v2.1.0.\nThe user pays 0.1 BCH to mint a NFT which he can then freely transfer or trade.\nStarting May 15th 2024, whomever holds the NFT will have the option of burning the NFT to get 0.101 BCH back from the DAO.\nThe additional 0.001 BCH comes from DAO's rewards pool which was seeded by the creator.\nThis instance of Emerald DAO v2.1.0 was created on Bitcoin Cash May 2023 upgrade day to demonstrate new capabilities enabled by the CashTokens upgrade, and to celebrate the network upgrade event!",
+        "name": "Emerald DAO U23",
+        "description": "Emerald DAO v2.1.0 keycard NFT, Bitcoin Cash May 2023 upgrade day celebration instance. Series of 2000 numbered NFTs minted by an instance of Emerald DAO v2.1.0.\nThe user pays 0.1 BCH to mint a NFT which he can then freely transfer or trade, while his 0.1 BCH (+bonus) is locked in a safebox held by the DAO.\nStarting May 15th 2024, whomever holds the NFT will have the option of burning the NFT to get 0.1 BCH (+bonus) back from the DAO.\nThe additional bonus comes from DAO's rewards pool which was seeded by the creator, and the DAO airdrops a little of it into every safebox.\nThis instance of Emerald DAO v2.1.0 was created on Bitcoin Cash May 2023 upgrade day to demonstrate new capabilities enabled by the CashTokens upgrade, and to celebrate the network upgrade event!",
         "token": {
           "category": "180f0db4465c2af5ef9363f46bacde732fa6ffb3bfe65844452078085b2e7c93",
-          "symbol": "EMRDAOMAY23"
+          "symbol": "EMRD-U23"
         },
         "uris": {
           "icon": "ipfs://QmcNL1KcVmiDtwJe8WokrnzYeoHirsz1sNxNojncsxyb2p",
