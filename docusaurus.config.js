@@ -110,8 +110,29 @@ const config = {
             ],
           },
           {
+            title: 'Development',
+            items: [
+              {
+                label: 'Chaingraph',
+                href: 'https://chaingraph.cash/',
+              },
+              {
+                label: 'Chipnet Explorer',
+                href: 'https://chipnet.chaingraph.cash/',
+              },
+              {
+                label: 'SalemKode BCH Explorer',
+                href: 'https://explorer.salemkode.com/',
+              },
+            ],
+          },
+          {
             title: 'Community',
             items: [
+              {
+                label: 'Twitter',
+                href: 'https://twitter.com/OpenTokenRgstry',
+              },
               {
                 label: 'Bitcoin Cash Research',
                 href: 'https://bitcoincashresearch.org/',
