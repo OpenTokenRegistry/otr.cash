@@ -13,7 +13,7 @@
 
 - **Select one**:
   - [ ] **Direct evidence**: a [chain-resolved registry](https://cashtokens.org/docs/bcmr/chip#chain-resolved-registries) at the authhead provides substantially equivalent metadata for this authbase. The Authhead TXID is provided below:
-  - [ ] **Indirect evidence**: the identity is [burned](https://cashtokens.org/docs/bcmr/chip#burned-identities), so the authbase can safely be linked using indirect evidence. Two or more corroborating, third party-archived URLs of reputable sources vouching for this association are provided below:
+  - [ ] **Indirect evidence**: the identity is [burned](https://cashtokens.org/docs/bcmr/chip#burned-identities) or provably locked within a covenant, so the authbase can safely be linked using indirect evidence. Details and two or more corroborating, third party-archived URLs of reputable sources vouching for this association are provided below:
 
 <!-- If "Direct evidence" is checked, provide the Authhead TXID here.
 
@@ -77,7 +77,7 @@ As with linking the authbase to this identity, we'll need to demonstrate that ea
     - **`symbol`**
       - [ ] Globally-unique base symbol, including among assets not listed in OpenTokenRegistry.
       - [ ] Valid symbol (regular expression: `/^[A-Z0-9]+[-A-Z0-9]*$/`)
-      - [ ] Appropriate minimum length (for new assets: 4 or more characters for primarily fungible base symbols, 6 or more characters for primarily non-fungible base symbols)
+      - [ ] Appropriate minimum length (For new, primarily-fungible base symbols: minimum of 4 characters; non-fungible base symbols: minimum of 6 characters; see [Symbol Length Recommendations](https://cashtokens.org/docs/bcmr/chip/#symbol-length-recommendations))
       - [ ] No longer than 13 characters for base symbols
       - [ ] No longer than 26 characters for full symbols
   - **`uris.icon`**
