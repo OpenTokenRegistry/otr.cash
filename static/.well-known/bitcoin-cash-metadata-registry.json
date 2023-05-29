@@ -44,6 +44,21 @@
           "app": "https://emerald-dao.vercel.app"
         }
       }
+    },
+    "36546e4062a1cfd070a4a8d8ff9db18aae4ddf8d9ac9a4fa789314d108b49797": {
+      "2023-05-29T05:00:00.000Z": {
+        "name": "Bismuth Win Bi",
+        "description": "A token serves as an example for on-chain resolution of Bismuth Win Bi(BWB).BWB has already issued on SmartBCH, but we focus on Cashtokens now.We have already listed our token on tapswap.cash, the very first DEX on Cashtokens.",
+        "token": {
+          "category": "36546e4062a1cfd070a4a8d8ff9db18aae4ddf8d9ac9a4fa789314d108b49797",
+          "symbol": "BWB"
+        },
+        "uris": {
+          "icon": "ipfs://bafybeicizft5gbfu5nuq4o3iwjoad6g74ubobbvovtlgket2zgzxhrfewe",
+          "web": "https://biwinbi.github.io/web/",
+          "chat": "https://t.me/BWBtothemoon"
+        }
+      }
     }
   },
   "license": "CC0-1.0"
