@@ -3,7 +3,7 @@
   "version": { "major": 1, "minor": 0, "patch": 0 },
   "latestRevision": "2023-05-13T00:00:00.000Z",
   "registryIdentity": {
-    "name": "Open Token Registry",
+    "name": "OpenTokenRegistry",
     "description": "A community-reviewed registry of tokens on Bitcoin Cash. Publishes names, symbols, icons, and other metadata about CashTokens via a Bitcoin Cash Metadata Registry (BCMR).",
     "uris": {
       "icon": "https://otr.cash/img/open-token-registry-icon.png",
@@ -32,7 +32,7 @@
     "180f0db4465c2af5ef9363f46bacde732fa6ffb3bfe65844452078085b2e7c93": {
       "2023-05-26T17:10:00.000Z": {
         "name": "Emerald DAO U23",
-        "description": "A series of 2000 keycard NFTs which entitle each holder to a unique, on-chain Emerald DAO safebox holding at least 0.101 BCH. Beginning May 15, 2024, each keycard NFT may be burned to unlock its matching safebox./n/nThe Emerald DAO U23 series was created on May 15, 2023 to demonstrate new capabilities enabled by the CashTokens upgrade and to celebrate the 2023 upgrade event. Emerald DAO U23 is minted by an instance of Emerald DAO v2.1.0 with a minimum safebox size of 0.1 BCH and an initial endowment of 2 BCH into DAO's rewards pool.",
+        "description": "A series of 2000 keycard NFTs which entitle each holder to a unique, on-chain Emerald DAO safebox holding at least 0.101 BCH. Beginning May 15, 2024, each keycard NFT may be burned to unlock its matching safebox.\n\nThe Emerald DAO U23 series was created on May 15, 2023 to demonstrate new capabilities enabled by the CashTokens upgrade and to celebrate the 2023 upgrade event. Emerald DAO U23 is minted by an instance of Emerald DAO v2.1.0 with a minimum safebox size of 0.1 BCH and an initial endowment of 2 BCH into DAO's rewards pool.",
         "token": {
           "category": "180f0db4465c2af5ef9363f46bacde732fa6ffb3bfe65844452078085b2e7c93",
           "symbol": "EMRDAO-U23"
