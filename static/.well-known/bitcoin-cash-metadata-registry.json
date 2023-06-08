@@ -44,7 +44,25 @@
           "app": "https://emerald-dao.vercel.app"
         }
       }
-    }
+    },
+    "b69f76548653033603cdcb81299e3c1d1f3d61ad66e7ba0e6569b493605b4cbe": {
+      "2023-05-15T00:00:00.000Z": {
+        "name": "Microfi Free Flow",
+        "description": "Microfi Free Flow (XMI) is an experimental fungible CashToken issued on Bitcoin Cash blockchain. Total fixed supply is 1000000.00 XMI. The smallest unit is MI (it is like satoshi on Bitcoin) and represents a decimal, one zero and 1. Total amount of 1 million XMI (100 million MI) is distributed for free.",
+        "token": {
+          "category": "b69f76548653033603cdcb81299e3c1d1f3d61ad66e7ba0e6569b493605b4cbe",
+          "decimals": 2,
+          "symbol": "XMI"
+        },
+        "migrated": "2023-05-28T00:00:00.000Z",
+        "uris": {
+          "icon": "https://bafybeiekc4wo27tmfi26zzujs3qfn2z5osncs74zzdr53l52apu2toswzm.ipfs.dweb.link/",
+          "web": "https://microfi.univer.se",
+          "chat": "https://t.me/mazetokens/",
+          "registry": "https://bafkreiee6zmfsp2iqd74z6lqaqu4u3nhew5r3ukpr4bjxhmuakal55limm.ipfs.dweb.link/"
+        }
+      }
+    },
   },
   "license": "CC0-1.0"
 }
