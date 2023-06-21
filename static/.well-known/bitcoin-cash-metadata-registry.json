@@ -51,7 +51,7 @@
         "description": "BCH Guru Collectible NFTs, associated with the bch.guru price-prediction game.",
         "token": {
           "category": "f54ce0297a4017cc922aacde5f7abe7a8397a1058b879f5eb9e2a643d4ec2301",
-          "symbol": "GURU",
+          "symbol": "BCHGURU",
           "nfts": {
             "description": "BCH Guru Collectible NFTs, associated with the bch.guru price-prediction game.",
             "parse": {
