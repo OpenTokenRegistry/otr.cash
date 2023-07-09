@@ -52071,6 +52071,23 @@
           "reddit": "https://www.reddit.com/user/bch_guru"
         }
       }
+    },
+     "36546e4062a1cfd070a4a8d8ff9db18aae4ddf8d9ac9a4fa789314d108b49797": {
+      "2023-05-29T05:00:00.000Z": {
+        "name": "Bismuth Win Bi Token",
+        "description": "Loyalty points issued by Bismuth Shed, an e-commerce store specializing in bismuth crystals and ores.\n\nBismuth Shed was founded in 2017 and is based in Taipei City, Taiwan. Bismuth Shed also offers pickup orders near MRT Taipei Nangang Exhibition Center Station.\n\n The token has been created on May 15th 2023.\n\n At time of creation on mainnet, the token also existed on BNB and SmartBCH blockchain, as contract 0x2e1da8eb00cd1ff9b201f51e3705d87e06313881 on both. ",
+        "token": {
+          "category": "36546e4062a1cfd070a4a8d8ff9db18aae4ddf8d9ac9a4fa789314d108b49797",
+          "decimals": 8,
+          "symbol": "BWBT"
+        },
+        "uris": {
+          "icon": "ipfs://bafkreib5fkmfd3frpjq7unumtj3ughcdxen4bcmmq3vqrp7bxzk626zeia",
+          "web": "https://bismuthshed.com",
+          "web": "https://biwinbi.github.io/web/",
+          "chat": "https://t.me/BWBtothemoon"
+        }
+      }
     }
   },
   "license": "CC0-1.0"
