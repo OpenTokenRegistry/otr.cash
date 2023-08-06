@@ -1,0 +1,29 @@
+{
+  "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "latestRevision": "2023-08-06T05:58:00.570Z",
+  "registryIdentity": {
+    "name": "bcmr for RAZACOIN1",
+    "description": "self-published bcmr for RAZACOIN1"
+  },
+  "identities": {
+    "91b0cbd441810977515b058a7ef460920123619fcfa5ce519b596cc238900e52": {
+      "2023-08-06T05:58:00.570Z": {
+        "name": "RAZACOIN1",
+        "description": "testing",
+        "token": {
+          "category": "91b0cbd441810977515b058a7ef460920123619fcfa5ce519b596cc238900e52",
+          "symbol": "RAZA"
+        },
+        "uris": {
+          "icon": "https://ipfs.io/ipfs/QmfTy7BZnahMR9aCqjorvPu3xvdG1EwuZz9zJaeFGUYNsB?filename=Screen%20Shot%202023-08-05%20at%2010.39.50%20PM.png",
+          "web": "https://twitter.com/dunvan"
+        }
+      }
+    }
+  }
+}
