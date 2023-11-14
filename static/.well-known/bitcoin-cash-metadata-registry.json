@@ -91083,6 +91083,33 @@
           "image": "ipfs://bafybeigw5korsj6gfjc54xetmatbmas7dev5l52jnmavnotzn2zkbqqnee/guru-image.png"
         }
       }
+    },
+    "482d555258d3be69fef6ffcd0e5eeb23c4aaacec572b25ab1c21897600c45887": {
+      "2023-07-19T16:23:41.467Z": {
+        "name": "Real Bitcoin Fam Community Award Tokens",
+        "description": "Real Bitcoin Fam's community award token for rewarding new BCH builders who are building with CashTokens. Real Bitcoin Fam is a support network for Bitcoin, cryptocurrency and Web3 builders who align with an OG Bitcoin vibe.",
+        "token": {
+          "category": "482d555258d3be69fef6ffcd0e5eeb23c4aaacec572b25ab1c21897600c45887",
+          "symbol": "XRBF",
+          "decimals": 2
+        },
+        "uris": {
+          "icon": "ipfs://bafkreiax4h2evyf4g7iuu6kuqkxwez4kvduxayngj5vxmvgrekipevptl4",
+          "web": "https://RealBitcoinFam.com",
+          "youtube": "https://www.youtube.com/@RealBitcoinCashSite",
+          "support": "https://t.me/Panmoni",
+          "telegram": "https://t.me/Panmoni",
+          "twitter": "https://twitter.com/RealBitcoinFam",
+          "discord": "https://discord.gg/MaybgkHs53",
+          "instagram": "https://www.instagram.com/realbitcoinfam/"
+        },
+        "extensions": {
+          "contact": {
+            "phone": "+1 (215) 360-3513",
+            "email": "hello@panmoni.com"
+          }
+        }
+      }
     }
   },
   "license": "CC0-1.0"
