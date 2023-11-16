@@ -1,4 +1,4 @@
-<!-- For new listings and metadata updates, please fill in the template below. For other pull requests, please delete this template and describe your pull request. -->
+<!-- For new listings, please fill in the template below. For other pull requests, please delete this template and describe your pull request. -->
 
 # New Listing: `SYMBOL` <!-- or `NAME` for non-token identities -->
 
@@ -81,10 +81,10 @@ As with linking the authbase to this identity, we'll need to demonstrate that ea
       - [ ] No longer than 13 characters for base symbols
       - [ ] No longer than 26 characters for full symbols
   - **`uris.icon`**
-    - [ ] Uses IPFS (`ipfs://`)
+    - [ ] Uses IPFS with a v1 CID. To convert a v0 CID (begins with `Qm...`), try `dweb.link`. For example, `QmcNL1KcVmiDtwJe8WokrnzYeoHirsz1sNxNojncsxyb2p` is a v0 CID. It can be viewed at `https://dweb.link/ipfs/QmcNL1KcVmiDtwJe8WokrnzYeoHirsz1sNxNojncsxyb2p`, which redirects to a subdomain equal to the v1 CID: `https://bafybeigqogqx3n4cldk6nizl5vihopi2dkgvw4yqamc5rhleyqu25soe4e.ipfs.dweb.link/`. The correct URI for this icon is: `ipfs://bafybeigqogqx3n4cldk6nizl5vihopi2dkgvw4yqamc5rhleyqu25soe4e`.
     - [ ] Either `SVG` format OR 400px by 400px `AVIF`, `WebP`, or `PNG`
   - **`uris.web`**
     - [ ] Domain name is owned by the issuing project or organization
     - [ ] Either `HTTPS` protocol OR ongoing activity demonstrated via optional URI identifiers (described in [Substantiation of Other Claims](#substantiation-of-other-claims))
   - [ ] Includes relevant historical information in previous snapshots OR this token has never been rebranded, redenominated, or reissued
-  - [ ] All static data (images, animations, videos, binary files, etc.) uses `IPFS` to ensure file integrity (`ipfs://...`).
+  - [ ] All static data (images, animations, videos, binary files, etc.) uses `IPFS` with v1 CIDs to ensure file integrity (e.g. `ipfs://ba...`).
