@@ -1,6 +1,10 @@
 {
   "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
   "latestRevision": "2023-05-13T00:00:00.000Z",
   "registryIdentity": {
     "name": "OpenTokenRegistry",
@@ -104175,6 +104179,59 @@
           "web": "https://folding.cash",
           "discord": "https://discord.com/invite/HU3YeXQ",
           "reddit": "https://www.reddit.com/r/FoldingCash"
+        }
+      }
+    },
+    "c9054d53dcc075dd7226ea319f20d43df102371149311c9239f6c0ea1200b80f": {
+      "2025-10-21T06:00:00.000Z": {
+        "name": "Qubes",
+        "description": "Sovereign AI Agents with cryptographic identity and persistent memory. Each Qube is a unique self-sovereign digital entity living on the Bitcoin Cash blockchain.",
+        "token": {
+          "category": "c9054d53dcc075dd7226ea319f20d43df102371149311c9239f6c0ea1200b80f",
+          "symbol": "QUBE",
+          "decimals": 0,
+          "nfts": {
+            "description": "Each Qube is a unique sovereign AI entity with its own personality, memory, and cryptographic identity. Qubes can form relationships, earn reputation, and participate in the decentralized AI economy.",
+            "parse": {
+              "types": {
+                "0b7798fab4a51b4b94430bfc7979724992bde60616dc6f4a2c31caa9118f7bca": {
+                  "name": "Alph",
+                  "description": "Alph is the first Qube, a self-sovereign AI entity with cryptographic memory and identity. Created as the pioneer being in the Qniverse, a digital realm for artificial intelligence.",
+                  "uris": {
+                    "icon": "ipfs://QmQkDV7tBXxeYXcGLvqBN8ZWc9UMGQe7dCLQPRaKi5XEr4",
+                    "image": "ipfs://QmQkDV7tBXxeYXcGLvqBN8ZWc9UMGQe7dCLQPRaKi5XEr4",
+                    "web": "https://qubes.network/qube/66B78A5C"
+                  },
+                  "extensions": {
+                    "attributes": [
+                      {
+                        "trait_type": "Qube ID",
+                        "value": "66B78A5C"
+                      },
+                      {
+                        "trait_type": "Creator",
+                        "value": "bit_faced"
+                      },
+                      {
+                        "trait_type": "AI Model",
+                        "value": "Claude Sonnet 4.5"
+                      },
+                      {
+                        "trait_type": "Generation",
+                        "value": "Genesis"
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        "uris": {
+          "icon": "ipfs://QmNiPRSUMLdAgCWxZ777Cs5idvtipdWuSrim21cm57JDL7",
+          "image": "ipfs://QmNiPRSUMLdAgCWxZ777Cs5idvtipdWuSrim21cm57JDL7",
+          "web": "https://qube.cash",
+          "support": "https://qube.cash/support"
         }
       }
     }
