@@ -104177,6 +104177,21 @@
           "reddit": "https://www.reddit.com/r/FoldingCash"
         }
       }
+    },
+    "436d50e820026b33b72a8f62d82f13424a465ab227e4b7b6d625efa57f7edbad": {
+      "2025-12-05T17:23:11.435Z": {
+        "name": "B-Hive",
+        "uris": {
+          "web": "https://bhv.cash",
+          "icon": "ipfs://bafybeidstcgvnhkahvohmkmyueaabv6wnw6cxsgjbe2zwuwsdtd6dj4pqi/436d50e820026b33b72a8f62d82f13424a465ab227e4b7b6d625efa57f7edbad.png"
+        },
+        "token": {
+          "symbol": "BHV",
+          "category": "436d50e820026b33b72a8f62d82f13424a465ab227e4b7b6d625efa57f7edbad",
+          "decimals": 8
+        },
+        "description": "B-Hive (BHV) is a Bitcoin Cash purist token built strictly on Layer 1, championing freedom, peer-to-peer money, and the original vision of Bitcoin. Just like a bee hive, it represents a thriving, cooperative BCH ecosystem — a community aligned around utility, openness, and real economic use, without maximalism or tribalism. B-Hive supports and amplifies the use of BCH as everyday money, uniting builders and users who believe in simple, scalable, permissionless cash for everyone."
+      }
     }
   },
   "license": "CC0-1.0"
