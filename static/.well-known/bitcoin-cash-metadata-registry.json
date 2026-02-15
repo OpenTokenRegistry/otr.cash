@@ -1,6 +1,10 @@
 {
   "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
   "latestRevision": "2023-05-13T00:00:00.000Z",
   "registryIdentity": {
     "name": "OpenTokenRegistry",
@@ -104175,6 +104179,21 @@
           "web": "https://folding.cash",
           "discord": "https://discord.com/invite/HU3YeXQ",
           "reddit": "https://www.reddit.com/r/FoldingCash"
+        }
+      }
+    },
+    "59dca37c21ce274e7aab3481b964fa3c86839b90f22ee899c6ae2c495ea8805a": {
+      "2026-02-15T00:00:00.000Z": {
+        "name": "Segunda Tokens",
+        "description": "Loyalty points and collectables from Segunda.",
+        "token": {
+          "category": "59dca37c21ce274e7aab3481b964fa3c86839b90f22ee899c6ae2c495ea8805a",
+          "decimals": 2,
+          "symbol": "SGND"
+        },
+        "uris": {
+          "icon": "ipfs://bafybeibglfzzws45vac3b3caokoaeywddresoq7nthryp6u56wztfpglti",
+          "web": "https://segunda.net"
         }
       }
     }
