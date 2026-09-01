@@ -1,0 +1,182 @@
+<!-- For new listings, please fill in the template below. For other pull requests, please delete this template and describe your pull request. -->
+
+# New Listing: `Maxcoin` <!-- or `NAME` for non-token identities --> 
+
+<!-- Replace the `PROVIDE...` fields below to add context to this PR: -->
+
+- Identity Name: `Maxcoin` 
+- Authbase: `4f9da23b9255d891f7a5e1300f7c0eb67c35faea5e291b02aacc66f26fed4625` 
+
+## Evidence Linking Authbase to Identity
+
+<!-- First, we need to prove that the on-chain identity defined by the authbase self-identifies as the submitted identity. This prevents an attacker from publicly claiming to control an authbase they do not control. Mark the type of proof you're providing by entering an `x` in the appropriate checkbox: (Change one `[ ]` to `[x]`) -->
+
+- **Select one**:
+  - [X ] **Direct evidence**: a [chain-resolved registry](https://cashtokens.org/docs/bcmr/chip#chain-resolved-registries) at the authhead provides substantially equivalent metadata for this authbase. The Authhead TXID is provided below:
+  - TXID: `842e7ba0caf5c184f731060bdd0b75076d7f533f09e9dc86f317dc40b231c9f2`
+
+  - [ ] **Indirect evidence**: the identity is [burned](https://cashtokens.org/docs/bcmr/chip#burned-identities) or provably locked within a covenant, so the authbase can safely be linked using indirect evidence. Details and two or more corroborating, third party-archived URLs of reputable sources vouching for this association are provided below:
+
+
+
+## Evidence Linking Identity to Authbase
+
+<!-- Next, we need to prove that the real-world entity self-identifies as the on-chain identity defined by the authbase. This protects known entities from being associated with an attacker-controlled on-chain identity. -->
+
+Archived URL(s):
+
+<!-- Provide a third-party archived URL to a statement by the represented identity claiming the submitted authbase as the root of their on-chain identity. Multiple source are encouraged (e.g. a website, social media profiles, etc.) -->
+
+## Evidence Linking Authbase to Categories
+
+<!-- If they differ, we need to prove that all submitted token categories are/were issued or controlled by the authbase.
+
+As with linking the authbase to this identity, we'll need to demonstrate that each claimed category self-identifies as associated with the authbase via either direct or indirect evidence. -->
+
+- **Select one**:
+  - [ x] Token `category` is equal to the authbase for all [Identity Snapshots](https://cashtokens.org/docs/bcmr/chip#identity-snapshots).
+  - [ ] Evidence is provided for differing `category` values below:
+
+<!-- Provide evidence for each category claimed in the history of the identity other than the authbase. Uncomment and duplicate the below section as needed: -->
+
+<!--
+
+- Differing `category`: `df9cd30305306dc16260e439357478b623df7b0e4665e8c80b588d154ca04ea8`
+- **Select one**:
+  - [x ] **Direct evidence** – category's authhead TXID with a corroborating chain-resolved registry:
+  - [ ] **Indirect evidence** – the category's identity is [burned](https://cashtokens.org/docs/bcmr/chip#burned-identities) or widely understood to be lost, abandoned, compromised, or destroyed; two or more third-party archived URLs of reputable sources vouching for this association:
+
+
+
+-->
+- TXID: `842e7ba0caf5c184f731060bdd0b75076d7f533f09e9dc86f317dc40b231c9f2`
+
+Mined in Block 966101
+CashToken - Category: df9cd30305306dc16260e439357478b623df7b0e4665e8c80b588d154ca04ea8 - 
+Fungible Amount: 9223372036854775807  - 
+
+
+## Substantiation of Other Claims
+
+<!-- Finally, if the submitted `description` makes any claims about the behavior of tokens, please submit any additional information to help reviewers corroborate statements of fact in your `description` or other fields. -->
+
+- **Select one**:
+  - [ ] The submission (esp. the `description`) includes no claims requiring substantiation.
+  - [x ] The claims in this submission can be corroborated with the following evidence:
+
+- Description: `Max Supply per Category instance allowed under the CashToken Standard scaled over 50 years`
+
+Maximum supply: 9,223,372,036,854,775,807
+Initial pool: 922,337,203,685,477,581 (10%, rounded to whole coin)
+Company dust: 922,337,203,685,478
+50-year network distribution: 8,300,112,495,965,612,748
+Total weighting: 1,275
+Formula: Network allocation × Year Weight ÷ 1,275
+50-Year Deflationary Distribution
+    Year Weight	Coins Released
+    1	  50	325,494,607,684,925,991
+    2	  49	318,984,715,531,227,471
+    3	  48	312,474,823,377,528,951
+    4	  47	305,964,931,223,830,431
+    5	  46	299,455,039,070,131,911
+    6	  45	292,945,146,916,433,391
+    7	  44  286,435,254,762,734,871
+    8	  43	279,925,362,609,036,351
+    9	  42	273,415,470,455,337,831
+    10  41	266,905,578,301,639,311
+    11  40  260,395,686,147,940,791
+    12	39	253,885,793,994,242,271
+    13	38  247,375,901,840,543,751
+    14	37  240,866,009,686,845,231
+    15  36  234,356,117,533,146,711
+    16  35  227,846,225,379,448,191
+    17	34	221,336,333,225,749,671
+    18  33	214,826,441,072,051,151
+    19	32	208,316,548,918,352,631
+    20  31	201,806,656,764,654,111
+    21	30	195,296,764,610,955,591
+    22  29	188,786,872,457,257,071
+    23	28	182,276,980,303,558,551
+    24	27	175,767,088,149,860,030
+    25	26	169,257,195,996,161,510
+    26	25	162,747,303,842,462,990
+    27	24	156,237,411,688,764,470
+    28	23	149,727,519,535,065,950
+    29	22	143,217,627,381,367,430
+    30	21	136,707,735,227,668,910
+    31	20	130,197,843,073,970,390
+    32	19	123,687,950,920,271,870
+    33	18	117,178,058,766,573,350
+    34	17	110,668,166,612,874,830
+    35	16	104,158,274,459,176,310
+    36	15	97,648,382,305,477,790
+    37	14	91,138,490,151,779,270
+    38	13	84,628,597,998,080,750
+    39	12	78,118,705,844,382,229
+    40	11	71,608,813,690,683,709
+    41	10	65,098,921,536,985,189
+    42	9	  58,589,029,383,286,669
+    43	8	  52,079,137,229,588,149
+    44	7	  45,569,245,075,889,629
+    45	6	  39,059,352,922,191,109
+    46	5	  32,549,460,768,492,599
+    47	4	  26,039,568,614,794,079
+    48	3	  19,529,676,461,095,559
+    49	2	  13,019,784,307,397,039
+    50	1	   6,509,892,153,698,519
+
+Supply accounting:
+
+Initial pool:
+922,337,203,685,477,581
+
+50-year network distribution:
+8,300,112,495,965,612,748
+
+Company dust:
+922,337,203,685,478
+
+TOTAL:
+
+9,223,372,036,854,775,807
+
+
+- icon: `ipfs://bafkreichahls4hmjhfyyr5wwbpjhz2kei2apa2hi6w5vw3owmqqkjiidq4` 
+
+- web: `https://x.com/MaxcoinMXC` 
+
+- decimals: `0`
+
+- BCMR: `4701d72e1d89397188f6d60bd27ce9444680f068e8f5bb5b6dd66420a4a10387`
+
+-tokenId: `df9cd30305306dc16260e439357478b623df7b0e4665e8c80b588d154ca04ea8`
+
+
+# Checklist
+
+- [ x] I have reviewed the [OpenTokenRegistry inclusion criteria](https://otr.cash/docs/list#inclusion-criteria), and this listing can be included in the registry.
+- [x ] The listing completes all required fields:
+  - **`name`**
+    - [x ] Objective, authoritative, and neutral tone
+    - [x ] No longer than 20 characters; exceptions may be allowed for existing legal names (please provide evidence above including the jurisdiction(s) in which the legal name is established).
+  - **`description`**
+    - [x ] Objective, authoritative, and neutral tone
+    - [x ] Descriptions is appropriate for use in user interfaces without a disclaimer by unaffiliated, neutral, third parties (wallets, block explorers, exchanges, etc.); no exclamations, calls to action, or disputable statements.
+    - [x ] All claims are substantiated above.
+  - **`token` information** (if applicable)
+    - [x ] Token `category` is defined.
+    - [x ] If fungible tokens exist for the `category`, `decimals` is defined.
+    - **`symbol`**
+      - [x ] Globally-unique base symbol, including among assets not listed in OpenTokenRegistry.
+      - [x ] Valid symbol (regular expression: `/^[A-Z0-9]+[-A-Z0-9]*$/`)
+      - [x ] Appropriate minimum length (For new, primarily-fungible base symbols: minimum of 4 characters; non-fungible base symbols: minimum of 6 characters; see [Symbol Length Recommendations](https://cashtokens.org/docs/bcmr/chip/#symbol-length-recommendations))
+      - [x ] No longer than 13 characters for base symbols
+      - [ x] No longer than 26 characters for full symbols
+  - **`uris.icon`**
+    - [x ] Uses IPFS with a v1 CID. To convert a v0 CID (begins with `Qm...`), try `dweb.link`. For example, `QmcNL1KcVmiDtwJe8WokrnzYeoHirsz1sNxNojncsxyb2p` is a v0 CID. It can be viewed at `https://dweb.link/ipfs/QmcNL1KcVmiDtwJe8WokrnzYeoHirsz1sNxNojncsxyb2p`, which redirects to a subdomain equal to the v1 CID: `https://bafybeigqogqx3n4cldk6nizl5vihopi2dkgvw4yqamc5rhleyqu25soe4e.ipfs.dweb.link/`. The correct URI for this icon is: `ipfs://bafybeigqogqx3n4cldk6nizl5vihopi2dkgvw4yqamc5rhleyqu25soe4e`.
+    - [x ] Either `SVG` format OR 400px by 400px `AVIF`, `WebP`, or `PNG`
+  - **`uris.web`**
+    - [ x] Domain name is owned by the issuing project or organization
+    - [ x] Either `HTTPS` protocol OR ongoing activity demonstrated via optional URI identifiers (described in [Substantiation of Other Claims](#substantiation-of-other-claims))
+  - [ x] Includes relevant historical information in previous snapshots OR this token has never been rebranded, redenominated, or reissued
+  - [ x] All static data (images, animations, videos, binary files, etc.) uses `IPFS` with v1 CIDs to ensure file integrity (e.g. `ipfs://ba...`).
