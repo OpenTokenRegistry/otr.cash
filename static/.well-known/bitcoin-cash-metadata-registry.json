@@ -1,7 +1,7 @@
 {
   "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
   "version": { "major": 1, "minor": 0, "patch": 0 },
-  "latestRevision": "2023-05-13T00:00:00.000Z",
+  "latestRevision": "2026-09-10T18:28:04.962Z",
   "registryIdentity": {
     "name": "OpenTokenRegistry",
     "description": "A community-reviewed registry of tokens on Bitcoin Cash. Publishes names, symbols, icons, and other metadata about CashTokens via a Bitcoin Cash Metadata Registry (BCMR).",
@@ -104175,6 +104175,21 @@
           "web": "https://folding.cash",
           "discord": "https://discord.com/invite/HU3YeXQ",
           "reddit": "https://www.reddit.com/r/FoldingCash"
+        }
+      }
+    },
+    "3c9af04021c731219908a6c1f9e900ce988d481d40463845e7f5befe61e0362b": {
+      "2026-09-10T18:28:04.962Z": {
+        "name": "Atanatus",
+        "description": "Atanatus (ATAN) is a fungible CashToken issued on Bitcoin Cash for the ATANATUS project.",
+        "token": {
+          "category": "3c9af04021c731219908a6c1f9e900ce988d481d40463845e7f5befe61e0362b",
+          "symbol": "ATAN",
+          "decimals": 8
+        },
+        "uris": {
+          "icon": "ipfs://bafkreid7sjrtzmjwjrujs74kcnjd6ur7ybatymniofnwrzccqld37rbyju",
+          "web": "https://atanatus.com/token.html"
         }
       }
     }
