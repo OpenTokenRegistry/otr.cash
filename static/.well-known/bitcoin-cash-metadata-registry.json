@@ -104177,6 +104177,23 @@
           "reddit": "https://www.reddit.com/r/FoldingCash"
         }
       }
+    },
+    "ee9b7f700d17b31aa1ff8e9b58bed110ed9108cd2f548009dbd9c5702d80e1cc": {
+      "2024-03-15T15:44:24.569Z": {
+        "name": "BCH ARGENTINA",
+        "description": "ARG is a CashToken issued by the Bitcoin Cash Argentina community.",
+        "token": {
+          "category": "ee9b7f700d17b31aa1ff8e9b58bed110ed9108cd2f548009dbd9c5702d80e1cc",
+          "symbol": "ARG",
+          "decimals": 8
+        },
+        "uris": {
+          "icon": "ipfs://bafybeibxavxxqpqwz5mhkpm6jy3gmzsbknz27zniho5rvcffb2jb52iada/ee9b7f700d17b31aa1ff8e9b58bed110ed9108cd2f548009dbd9c5702d80e1cc.png",
+          "web": "https://bitcoincashargentina.com",
+          "twitter": "https://x.com/BCHArgentina",
+          "telegram": "https://t.me/argbch"
+        }
+      }
     }
   },
   "license": "CC0-1.0"
