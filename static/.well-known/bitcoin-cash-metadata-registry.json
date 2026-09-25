@@ -1,6 +1,10 @@
 {
   "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
   "latestRevision": "2023-05-13T00:00:00.000Z",
   "registryIdentity": {
     "name": "OpenTokenRegistry",
@@ -104175,6 +104179,21 @@
           "web": "https://folding.cash",
           "discord": "https://discord.com/invite/HU3YeXQ",
           "reddit": "https://www.reddit.com/r/FoldingCash"
+        }
+      }
+    },
+    "3e0a7542a7ae9e254b12d8d164b601209b19fa5d2156f45439811395c1e5e551": {
+      "2025-09-25T00:00:00.000Z": {
+        "name": "BCH Lizard",
+        "description": "BCH Lizard is a fungible token on Bitcoin Cash. A green lizard that sees Bitcoin.",
+        "token": {
+          "category": "3e0a7542a7ae9e254b12d8d164b601209b19fa5d2156f45439811395c1e5e551",
+          "symbol": "BCH-LZRD",
+          "decimals": 8
+        },
+        "uris": {
+          "icon": "ipfs://bafybeiehs2tqa567e5eceg46ippe4zlhigzd6sl7wvtnzoupsvxjgjiztq",
+          "web": "https://x.com/Bch_Lizard"
         }
       }
     }
