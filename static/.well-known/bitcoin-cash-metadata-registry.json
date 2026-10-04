@@ -1,7 +1,7 @@
 {
   "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
   "version": { "major": 1, "minor": 0, "patch": 0 },
-  "latestRevision": "2023-05-13T00:00:00.000Z",
+  "latestRevision": "2026-10-04T00:00:00.000Z",
   "registryIdentity": {
     "name": "OpenTokenRegistry",
     "description": "A community-reviewed registry of tokens on Bitcoin Cash. Publishes names, symbols, icons, and other metadata about CashTokens via a Bitcoin Cash Metadata Registry (BCMR).",
@@ -12,6 +12,21 @@
     }
   },
   "identities": {
+    "742a7585d0d5cb35b2a45d26425e23b059b72e82d7036dd97e85da5ab57a8d6c": {
+      "2026-07-09T13:13:15.249Z": {
+        "name": "Guanaco",
+        "uris": {
+          "web": "https://guanaco.fi",
+          "icon": "ipfs://bafkreib6ftaka4cs7v6vcnxvdb23bnwx64lq5z57v6nx4llwi47lzblite"
+        },
+        "token": {
+          "symbol": "GUA",
+          "category": "742a7585d0d5cb35b2a45d26425e23b059b72e82d7036dd97e85da5ab57a8d6c",
+          "decimals": 4
+        },
+        "description": "Guanaco (GUA) — the native token of the Guanaco DEX on Bitcoin Cash."
+      }
+    },
     "07a70ec6e0a325991e829daea5de1be1bb71e1ef4a04931cdddf567d8f60f676": {
       "2023-05-12T20:18:04.000Z": {
         "name": "OTR Chipnet Tokens",
