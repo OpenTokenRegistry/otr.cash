@@ -104177,6 +104177,111 @@
           "reddit": "https://www.reddit.com/r/FoldingCash"
         }
       }
+    },
+    "dbaabe38e5c16f938bb5bd2d116f485e412d5ed178675c9caac1bcb94125ee99": {
+      "2026-10-21T23:00:00.000Z": {
+        "name": "Kepler-22b · Cells",
+        "description": "Stored energy used to power colony operations and trade with other players.",
+        "token": {
+          "category": "dbaabe38e5c16f938bb5bd2d116f485e412d5ed178675c9caac1bcb94125ee99",
+          "symbol": "KCEL",
+          "decimals": 0
+        },
+        "uris": {
+          "icon": "https://kepler-22b-cash.vercel.app/tokens/v2/cells.png",
+          "web": "https://www.kepler22b.xyz/"
+        }
+      }
+    },
+    "66c6be992bac6fce38492b223d426201de39165081bff1258885f6a204fa5c70": {
+      "2026-10-21T23:00:00.000Z": {
+        "name": "Kepler-22b · Water",
+        "description": "Water used to grow food, support colonists, and supply production.",
+        "token": {
+          "category": "66c6be992bac6fce38492b223d426201de39165081bff1258885f6a204fa5c70",
+          "symbol": "KH2O",
+          "decimals": 0
+        },
+        "uris": {
+          "icon": "https://kepler-22b-cash.vercel.app/tokens/v2/water.png",
+          "web": "https://www.kepler22b.xyz/"
+        }
+      }
+    },
+    "de15a08aa4eaaff83fe8414652ee95cd2d6259a772512bee6098d8e210ef36df": {
+      "2026-10-21T23:00:00.000Z": {
+        "name": "Kepler-22b · Food",
+        "description": "Food that sustains colonists and provides biomass for polymer production.",
+        "token": {
+          "category": "de15a08aa4eaaff83fe8414652ee95cd2d6259a772512bee6098d8e210ef36df",
+          "symbol": "KFOOD",
+          "decimals": 0
+        },
+        "uris": {
+          "icon": "https://kepler-22b-cash.vercel.app/tokens/v2/food.png",
+          "web": "https://www.kepler22b.xyz/"
+        }
+      }
+    },
+    "0b5c83318d8f75b43df58ea2214212ef71adf775f05f131a2d3cf18640a745f0": {
+      "2026-10-21T23:00:00.000Z": {
+        "name": "Kepler-22b · Ore",
+        "description": "Raw mineral used in construction and refined into alloys.",
+        "token": {
+          "category": "0b5c83318d8f75b43df58ea2214212ef71adf775f05f131a2d3cf18640a745f0",
+          "symbol": "KORE",
+          "decimals": 0
+        },
+        "uris": {
+          "icon": "https://kepler-22b-cash.vercel.app/tokens/v2/ore.png",
+          "web": "https://www.kepler22b.xyz/"
+        }
+      }
+    },
+    "113904cb51a5203c06c132e5375032c988f628060177bf73841fc83eb501f1be": {
+      "2026-10-21T23:00:00.000Z": {
+        "name": "Kepler-22b · Alloys",
+        "description": "Refined material used to build structures and manufacture components.",
+        "token": {
+          "category": "113904cb51a5203c06c132e5375032c988f628060177bf73841fc83eb501f1be",
+          "symbol": "KALY",
+          "decimals": 0
+        },
+        "uris": {
+          "icon": "https://kepler-22b-cash.vercel.app/tokens/v2/alloy.png",
+          "web": "https://www.kepler22b.xyz/"
+        }
+      }
+    },
+    "0c55a26e80f457b72f9583e8c5aa03adb9805d3bbecfa9e130b71f74c57bce6c": {
+      "2026-10-21T23:00:00.000Z": {
+        "name": "Kepler-22b · Polymers",
+        "description": "Manufactured material used in membranes, circuits, and component production.",
+        "token": {
+          "category": "0c55a26e80f457b72f9583e8c5aa03adb9805d3bbecfa9e130b71f74c57bce6c",
+          "symbol": "KPOL",
+          "decimals": 0
+        },
+        "uris": {
+          "icon": "https://kepler-22b-cash.vercel.app/tokens/v2/polymer.png",
+          "web": "https://www.kepler22b.xyz/"
+        }
+      }
+    },
+    "1a0a7bfa3665ac481670d14756df39e504244717f6815132ac01651013113ba9": {
+      "2026-10-21T23:00:00.000Z": {
+        "name": "Kepler-22b · Components",
+        "description": "Manufactured parts used in research, upgrades, and new colony facilities.",
+        "token": {
+          "category": "1a0a7bfa3665ac481670d14756df39e504244717f6815132ac01651013113ba9",
+          "symbol": "KCMP",
+          "decimals": 0
+        },
+        "uris": {
+          "icon": "https://kepler-22b-cash.vercel.app/tokens/v2/components.png",
+          "web": "https://www.kepler22b.xyz/"
+        }
+      }
     }
   },
   "license": "CC0-1.0"
